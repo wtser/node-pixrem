@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "browserslist": "^4.3.6",
-    "postcss": "^7.0.7",
+    "postcss": "^8.4.31",
     "reduce-css-calc": "^2.1.5"
   },
   "devDependencies": {
